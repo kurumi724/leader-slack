@@ -1,0 +1,16 @@
+# Google Sheets API credentials
+service_account.json
+
+# Environment variables
+.env
+
+# Python virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Other common files to ignore
+.DS_Store
+*.log
